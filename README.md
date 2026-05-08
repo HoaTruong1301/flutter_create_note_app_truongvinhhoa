@@ -36,8 +36,6 @@
     flutter run
     ```
 
-## 🎥 Demo
-[Link Video Demo tại đây]
 
 ## 📸 Ảnh chụp màn hình (Screenshots)
 
